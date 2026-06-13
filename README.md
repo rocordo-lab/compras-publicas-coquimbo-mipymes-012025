@@ -12,8 +12,8 @@ puedan entrar como proveedores del Estado.
 
 - **Fuente oficial**: Datos Abiertos de ChileCompra (Mercado Público)
 - **Dataset**: Cotizaciones de Compra Ágil
-- **Perí¿©do**: Enero 2025 (1–31 de enero)
-- **Regi?:** Coquimbo
+- **Período**: Enero 2025 (1–31 de enero)
+- **Región:** Coquimbo
 - **Total de cotizaciones**: 28,864
 - **Todas clasificadas como**: MiPyme (100%)
 
@@ -25,7 +25,7 @@ puedan entrar como proveedores del Estado.
 
 ### 1. Volumen de compra en Coquimbo - enero 2025
 
-| M?:rica | Valor |
+| Metrica | Valor |
 |----------|-------|
 | Gasto total | $57,115,229,174 CLP |
 | Cotizaciones | 28,864 |
@@ -34,7 +34,7 @@ puedan entrar como proveedores del Estado.
 | Ticket mínimo | $1 CLP |
 | Ticket promedio / Límite EMT (100 UTM) | 29.5% del límite |
 
-**Conclusi?:** El ticket promedio de $1.98M está muy bajo el límite de 100 UTM (~$6.7M), lo que indica que **existe amplio espacio real para MiPymes** en Compra Ágil.
+**Conclusión:** El ticket promedio de $1.98M está muy bajo el límite de 100 UTM (~$6.7M), lo que indica que **existe amplio espacio real para MiPymes** en Compra Ágil.
 
 ---
 
@@ -53,7 +53,7 @@ puedan entrar como proveedores del Estado.
 | I MUNICIPALIDAD DE LOS VILOS | $1,942,299,000 |
 | Servicio de Salud Coquimbo - Hospital de Ovalle | $1,942,151,000 |
 
-**Conclusi?:**
+**Conclusión:**
 - **Municipalidades rurales** dominan el gasto (Canela, Montepatria, Salamanca)
 - **Hospitales regionales** también tienen compras significativas
 - **Municipalidades pequeñas** son más frecuentes en Compra Ágil que en licitaciones grandes
@@ -62,37 +62,37 @@ puedan entrar como proveedores del Estado.
 
 ### 3. Top 10 productos por gasto total (rubros)
 
-| Producto Generi?o | Gasto Total (CLP) |
+| Producto Generico | Gasto Total (CLP) |
 |-------------------|-------------------|
 | T?.ner | $1,764,889,000 |
-| Kits de juegos para incentivar la imaginaci?n y suministros | $1,636,184,000 |
+| Kits de juegos para incentivar la imaginación y suministros | $1,636,184,000 |
 | Libros de actividades de lectura | $803,791,400 |
-| Neumati?cos para camionetas o autom?viles | $771,855,600 |
-| Lapi? pasta | $702,167,300 |
-| Cajas de medicamentos de servicios m?dicos de urgencia | $656,280,500 |
+| Neumaticos para camionetas o automoviles | $771,855,600 |
+| Lapiz pasta | $702,167,300 |
+| Cajas de medicamentos de servicios médicos de urgencia | $656,280,500 |
 | Vestuario | $520,377,800 |
-| Papas, arroz, pastas u otros acompa?amientos preparados frescos | $497,852,000 |
-| Cocinas dom?sticas | $458,791,600 |
+| Papas, arroz, pastas u otros acompañamientos preparados frescos | $497,852,000 |
+| Cocinas domésticas | $458,791,600 |
 | Instrumentos de ensayo para interfaz de implante periodontal al hueso | $452,403,200 |
 
 ---
 
 ### 4. Top 10 productos por frecuencia de cotizaciones
 
-| Producto Generi?o | Cotizaciones |
+| Producto Generico | Cotizaciones |
 |-------------------|--------------|
-| T?.ner | 1,157 |
-| Sondas quirurgi?as | 378 |
-| Lapi? pasta | 326 |
-| Arti?culos de papeleria? | 318 |
-| Cajas de medicamentos de servicios m?dicos de urgencia | 307 |
+| Toner | 1,157 |
+| Sondas quirurgicas | 378 |
+| Lapiz pasta | 326 |
+| Articulos de papeleria | 318 |
+| Cajas de medicamentos de servicios médicos de urgencia | 307 |
 | Sillas | 295 |
-| Kits de juegos para incentivar la imaginaci?n y suministros | 276 |
+| Kits de juegos para incentivar la imaginación y suministros | 276 |
 | Bolsas de basura | 273 |
 | Verduras frescas | 273 |
 | Sillas para trabajar | 249 |
 
-**Conclusi?:** Rubros como **t?.ner, lapi?, papeleria?, bolsas de basura** tienen **alta frecuencia** y **ticket bajo**, ideales para MiPymes que pueden ofrecer productos repetibles.
+**Conclusión:** Rubros como **toner, lapiz, papeleria, bolsas de basura** tienen **alta frecuencia** y **ticket bajo**, ideales para MiPymes que pueden ofrecer productos repetibles.
 
 ---
 
@@ -100,7 +100,7 @@ puedan entrar como proveedores del Estado.
 
 | Proveedor | Cotizaciones |
 |-----------|--------------|
-| INGENIERIA?, SERVICIOS Y ABASTECIMIENTO ISEVEN LIMITADA | 2,772 |
+| INGENIERIA, SERVICIOS Y ABASTECIMIENTO ISEVEN LIMITADA | 2,772 |
 | COMERCIALIZADORA C & S SPA | 889 |
 | TRANSPORTES CHILE SPA | 769 |
 | MYRIAM LEDY FERNANDEZ DIAZ | 680 |
@@ -111,7 +111,7 @@ puedan entrar como proveedores del Estado.
 | INGENIERIA Y GESTION AJMB LIMITADA | 558 |
 | REDOFFICE DISTRIBUCION SPA | 336 |
 
-**Conclusi?:** **ISEVEN LIMITADA** domina con 2,772 cotizaciones (9.6% del total). Existe **concentraci?n moderada** en algunos proveedores grandes.
+**Conclusión:** **ISEVEN LIMITADA** domina con 2,772 cotizaciones (9.6% del total). Existe **concentración moderada** en algunos proveedores grandes.
 
 ---
 
@@ -130,26 +130,26 @@ puedan entrar como proveedores del Estado.
 | I MUNICIPALIDAD DE PUNITAQUI | 1,162 |
 | Servicio de Salud Coquimbo - Hospital de Ovalle | 1,065 |
 
-**Conclusi?:** Las **municipalidades pequeñas** cotizan más frecuentemente, lo que sugiere que usan Compra Ágil como **mecanismo principal**.
+**Conclusión:** Las **municipalidades pequeñas** cotizan más frecuentemente, lo que sugiere que usan Compra Ágil como **mecanismo principal**.
 
 ---
 
-### 7. Top 10 rubros con mayor oportunidad para MiPyme (I?ndice de oportunidad)
+### 7. Top 10 rubros con mayor oportunidad para MiPyme (Indice de oportunidad)
 
-| Producto Generi?o | Gasto Total | Ticket Avg | Frecuencia | Num_Org | I?ndice (0-100) |
+| Producto Generico | Gasto Total | Ticket Avg | Frecuencia | Num_Org | Indice (0-100) |
 |-------------------|-------------|------------|------------|---------|------------------|
-| T?.ner | $1,764,889,000 | $1,525,401 | 1,157 | 13 | **100.0** |
+| Toner | $1,764,889,000 | $1,525,401 | 1,157 | 13 | **100.0** |
 | Budesonida | $128 | $128 | 1 | 1 | 79.2 |
 | Xinafoato de salmeterol | $142 | $142 | 1 | 1 | 71.4 |
 | Hialuronato sodico? | $166 | $166 | 1 | 1 | 61.1 |
 | Bolsas de basura | $352,783,000 | $1,292,245 | 273 | 12 | 25.7 |
-| Desinfectantes dom?sticos | $280,198,600 | $1,162,650 | 241 | 10 | 21.0 |
+| Desinfectantes domesticos | $280,198,600 | $1,162,650 | 241 | 10 | 21.0 |
 | Servicios de catering | $177,172,800 | $1,114,294 | 159 | 14 | 20.3 |
-| Sondas quirurgi?as | $387,106,800 | $1,024,092 | 378 | 5 | 18.7 |
+| Sondas quirurgicas | $387,106,800 | $1,024,092 | 378 | 5 | 18.7 |
 | Clorhidrato de ziprasidona | $9,136,000 | $2,284,000 | 4 | 1 | 17.8 |
 | Sillas | $282,252,400 | $956,788 | 295 | 5 | 15.6 |
 
-**Conclusi?:** **T?.ner** es el rubro con **mayor oportunidad para MiPyme**:
+**Conclusión:** **Toner** es el rubro con **mayor oportunidad para MiPyme**:
 - Alta frecuencia (1,157 cotizaciones)
 - Ticket promedio bajo ($1.5M)
 - 13 organismos compradores (baja concentraci?n)
@@ -160,15 +160,15 @@ puedan entrar como proveedores del Estado.
 ## 🧮 Fórmula del I?ndice de Oportunidad
 
 ```
-I?ndice = Frecuencia × (1/Ticket_Avg) × (1/Concentraci?n)
+Indice = Frecuencia × (1/Ticket_Avg) × (1/Concentracion)
 
-Concentraci?n = 1 / Número de organismos únicos por rubro
+Concentracion = 1 / Número de organismos únicos por rubro
 ```
 
-**Interpretaci?:**
+**Interpretación:**
 - Alta frecuencia = muchas oportunidades de venta
 - Ticket bajo = accesible para MiPyme
-- Baja concentraci?n = menos dominado por un solo proveedor
+- Baja concentración = menos dominado por un solo proveedor
 
 ---
 
@@ -202,8 +202,8 @@ import matplotlib.pyplot as plt
 # 2. Cargar CSV con pandas
 # 3. Filtrar por Región = Coquimbo y Fecha = enero 2025
 # 4. Agrupar por organismo y rubro
-# 5. Calcular I?ndice de oportunidad
-# 6. Generar graci?:os y exportar resultados
+# 5. Calcular Indice de oportunidad
+# 6. Generar graficos y exportar resultados
 ```
 
 ---
@@ -212,38 +212,38 @@ import matplotlib.pyplot as plt
 
 ### Rubros prioritarios para entrar:
 
-1. **T?.ner** (I?ndice = 100)
+1. **Toner** (Indice = 100)
    - 1,157 cotizaciones
    - Ticket promedio: $1.5M
    - 13 organismos compradores
-   - **Acci?:** Ofrecer t?.ner generi?o o de marca a municipalidades
+   - **Acción:** Ofrecer toner generico o de marca a municipalidades
 
-2. **Bolsas de basura** (I?ndice = 25.7)
+2. **Bolsas de basura** (Indice = 25.7)
    - 273 cotizaciones
    - Ticket promedio: $1.3M
    - 12 organismos compradores
-   - **Acci?:** Proveer bolsas industriales o dom?sticas
+   - **Acción:** Proveer bolsas industriales o domesticas
 
-3. **Desinfectantes dom?sticos** (I?ndice = 21.0)
+3. **Desinfectantes domesticos** (Indice = 21.0)
    - 241 cotizaciones
    - Ticket promedio: $1.2M
    - 10 organismos compradores
-   - **Acci?:** Ofrecer productos de limpieza
+   - **Acción:** Ofrecer productos de limpieza
 
-4. **Sillas** (I?ndice = 15.6)
+4. **Sillas** (Indice = 15.6)
    - 295 cotizaciones
    - Ticket promedio: $957K
    - 5 organismos compradores
-   - **Acci?:** Proveer sillas de oficina o comedor
+   - **Acción:** Proveer sillas de oficina o comedor
 
-### Orga?nos recomendados para acercarse:
+### Organos recomendados para acercarse:
 
 1. **I Municipalidad de Montepatria** (2,894 cotizaciones)
 2. **I Municipalidad de Salamanca** (2,445 cotizaciones)
 3. **I Municipalidad de Canela** (2,353 cotizaciones)
 4. **I Municipalidad de Coquimbo** (1,929 cotizaciones)
 
-**Acci?:** Buscar contacto en la unidad de compra (DAF) de cada municipalidad.
+**Acción:** Revisar las ofertas en Compra Agil de cada municipalidad.
 
 ---
 
@@ -257,7 +257,8 @@ import matplotlib.pyplot as plt
 
 ## 📞 Contacto
 
-Para consultas sobre este análisis o colaboraci?n en proyectos de datos de compras públicas.
+rcordones@gmail.com
+Para consultas sobre este análisis o colaboracin en proyectos de datos de compras públicas.
 
 ---
 
