@@ -1,0 +1,141 @@
+
+============================================================
+GUÍ¡A PARA PORTAFOLIO - Proyecto de Data Analyst
+============================================================
+
+PROYECTO: Oportunidades de Compra Ágil en Coquimbo para MiPymes
+
+🎯 TITULO DEL PROYECTO (para CV):
+"Aná©´lisis de Compras Públicas: Identificando Oportunidades para MiPymes en Coquimbo"
+
+📄 DESCRIPCIÓ´N PARA PORTAFOLIO (LinkedIn / CV):
+
+Proyecto de análisis de datos de compras públicas en la Región de Coquimbo,
+utilizando datos abiertos de ChileCompra (Mercado Público).
+
+Objetivo: Identificar qué organismos públicos compran por Compra Ágil y en qué rubros
+existen oportunidades para nuevas empresas de menor tamaño (MiPymes).
+
+Hallazgos clave:
+• Analiz_/ref> 28,864 cotizaciones de enero 2025
+• Gasto total de $57.1B CLP
+• Ticket promedio de $1.98M (29.5% del límite de 100 UTM)
+• Tó´´´ner es el rubro con mayor oportunidad (í´´ndice = 100/100)
+• Municipalidades rurales lideran el gasto (Canela $8.2B, Montepatria $6.7B)
+
+Herramientas: Python, pandas, numpy, matplotlib, Google Colab
+
+📊 ESTRUCTURA DEL PROYECTO PARA GitHub:
+
+├── README_compra_agil_coquimbo.md    (documentaci_/ref>n principal)
+├── CONCLUSIONES_proyecto.md          (conclusiones para portafolio)
+├── RESUMEN_PROYECTO.txt              (resumen ejecutivo)
+├── codigo_completo_proyecto.py       (có¨´´digo replicable)
+├── coquimbo_compra_agil_enero_2025_clean.csv  (dataset limpio)
+├── metrics_organismos.csv            (mØ©tricas por organismo)
+├── metrics_rubros.csv                (mØ©tricas por rubro)
+├── top_oportunidades_emt.csv         (top 10 oportunidades)
+├── top_organismos_gasto.png          (grØ©fico 1)
+├── top_rubros_frecuencia.png         (grØ©fico 2)
+├── indice_oportunidad.png            (grØ©fico 3)
+
+💡 PREGUNTAS FRECUENTES (para entrevistas):
+
+1. ¿Por qué escogió¬¬¬ este proyecto?
+→ Es un problema real de economí¬¡ y empleo: cómo ayudar a MiPymes
+a entrar al mercado de compras públicas. Tiene impacto social y
+econó¬´´mico para la región de Coquimbo.
+
+2. ¿Qué¬¬ dificultad enfrentó¬¬¬?
+→ Los CSV de ChileCompra tenían 645,527 filas y problemas de
+codificaciÓ´n. Usé¬¬ latin1 y sep=";" para leerlos correctamente.
+
+3. ¿Qué¬¬ métricas calculó¬¬¬?
+→ Creé¬¬ un "í¬´ndice de oportunidad" combinando:
+   - Frecuencia de cotizaciones
+   - Ticket promedio (accesibilidad)
+   - ConcentraciÓ´n de proveedores
+
+4. ¿Qué¬¬ conclusión es más importante?
+→ Tó¬¬´ner es el rubro con mayor oportunidad: 1,157 cotizaciones,
+$1.5M ticket promedio, 13 organismos compradores.
+
+5. ¿Qué¬¬ podrí¬¡a mejorar?
+→ Inciciente 12 meses de datos, no solo enero.
+Incluir adjudicaciones reales, no solo cotizaciones.
+Comparar con otras regiones.
+
+📈 PREGUNTAS PARA INTERVISTAS (tØ©cnicas):
+
+1. ¿Qué¬¬ función de pandas usó¬¬¬ más?
+→ groupby(), agg(), sort_values(), head()
+
+2. ¿Có¬¬´mo manejó¬¬¬ nulos?
+→ pd.to_numeric(..., errors='coerce')
+
+3. ¿Có¬¬´mo filtró¬¬¬ por región y fecha?
+→ df[df['Region'].str.contains('Coquimbo')] y rango de fechas
+
+4. ¿Có¬¬´mo creó¬¬¬ el í¸Í´ndice de oportunidad?
+→ Frecuencia × (1/Ticket) × (1/ConcentraciÓ´n)
+
+5. ¿Có¬¬´mo visualizó¬¬¬ los resultados?
+→ matplotlib barh() para grØ©ficos horizontales
+
+✅ LISTA DE CHECK PARA PORTAFOLIO:
+
+[✓] README.md con descripciÓ´n del proyecto
+[✓] CONCLUSIONES.md con hallazgos clave
+[✓] Código completo y replicable
+[✓] Dataset limpio exportado
+[✓] MØ©tricas calculadas
+[✓] 3 grØ©ficos profesionales
+[✓] Resumen ejecutivo
+[✓] Guí¡¡a para entrevistas
+
+🚀 CÓMO PUBLICAR EN GitHub:
+
+1. Crear repositorio nuevo: "compras-publicas-coquimbo-mipymes"
+2. Ejecutar: git init
+3. Ejecutar: git add .
+4. Ejecutar: git commit -m "Proyecto de análisis de compras públicas"
+5. Ejecutar: git branch -M main
+6. Ejecutar: git remote add origin https://github.com/USERNAME/repo.git
+7. Ejecutar: git push -u origin main
+
+📝 LINKS PARA INCLUIR EN CV / LinkedIn:
+
+• GitHub: https://github.com/USERNAME/compras-publicas-coquimbo-mipymes
+• ChileCompra Datos Abiertos: https://datos-abiertos.chilecompra.cl
+• Mercado Público: https://www.mercadopublico.cl
+
+🎓 HABILIDADES DEMOSTRADAS:
+
+• Análisis de datos con pandas
+• CreaciÓ´n de visualizaciones con matplotlib
+• Trabajo con datos abiertos oficiales
+• Índge de métricas de negocio
+• DocumentaciÓ´n profesional
+• Replicabilidad de código
+• storytelling con datos
+
+📈 VALOR PARA RECLUTADORES:
+
+Este proyecto demuestra que puedes:
+1. Trabajar con datos reales y grandes (645K filas)
+2. Resolver problemas de codificaciÓ´n y formato
+3. Crear métricas de negocio (í¬´ndice de oportunidad)
+4. Visualizar datos profesionalmente
+5. Documentar proyectos completos
+6. Comunicar hallazgos con impacto
+
+🎯 CONCLUSIÓ´N FINAL:
+
+Este proyecto es **ideal para portafolio de Data Analyst principiante** porque:
+• Usa datos públicos oficiales (ChileCompra)
+• Resuelve un problema real (oportunidades para MiPymes)
+• Tiene impacto social y econó¬´´mico
+• Es replicable y bien documentado
+• Muestra habilidades tØ©cnicas completas
+
+✅ PROYECTO COMPLETO Y PUBLICABLE

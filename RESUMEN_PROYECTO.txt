@@ -1,0 +1,68 @@
+
+============================================================
+PROYECTO COMPLETO: Oportunidades de Compra Ágil en Coquimbo
+============================================================
+
+📊 DATOS ANALIZADOS:
+- Total de cotizaciones: 28,864
+- Gasto total: $57,115,229,174 CLP
+- Ticket promedio: $1,979,593 CLP (29.5% del límite de 100 UTM)
+- 100% MiPymes
+
+📁 ARCHIVOS GENERADOS:
+1. coquimbo_compra_agil_enero_2025_clean.csv (dataset limpio)
+2. metrics_organismos.csv (mØ©tricas por organismo)
+3. metrics_rubros.csv (mØ©tricas por rubro)
+4. top_oportunidades_emt.csv (top 10 oportunidades)
+5. top_organismos_gasto.png (grØ©fico top organismos)
+6. top_rubros_frecuencia.png (grØ©fico top rubros por frecuencia)
+7. indice_oportunidad.png (grØ©fico Ø­ndice oportunidad)
+8. README_compra_agil_coquimbo.md (documentaciÓ´n del proyecto)
+9. CONCLUSIONES_proyecto.md (conclusiones para portafolio)
+
+🏆 TOP 3 ORGANISMOS POR GASTO:
+1. I Municipalidad de Canela: $8.2B
+2. I Municipalidad de Montepatria: $6.7B
+3. I Municipalidad de Salamanca: $4.8B
+
+📦 TOP 3 RUBROS POR GASTO:
+1. Tó´´´ner: $1.76B (1,157 cotizaciones)
+2. Kits de juegos: $1.64B
+3. Libros de lectura: $804M
+
+🎯 TOP 3 RUBROS POR OPORTUNIDAD (MiPyme):
+1. Tó´´´ner: Ø­ndice = 100/100
+2. Budesonida: Ø­ndice = 79.2
+3. Xinafoato de salmeterol: Ø­ndice = 71.4
+
+👥 TOP 3 PROVEEDORES POR COTIZACIONES:
+1. ISEVEN LIMITADA: 2,772 cotizaciones (9.6%)
+2. C & S SPA: 889 cotizaciones (3.1%)
+3. TRANSPORTES CHILE SPA: 769 cotizaciones (2.7%)
+
+🎯 RECOMENDACIONES PARA NUEVAS MiPymes:
+Rubros prioritarios:
+1. Tó´´´ner (Ø´ndice = 100)
+2. Bolsas de basura (Ø´ndice = 25.7)
+3. Desinfectantes domØ©sticos (Ø´ndice = 21.0)
+4. Sillas (Ø´ndice = 15.6)
+
+Territorios recomendados:
+1. Municipalidad de Montepatria (2,894 cotizaciones)
+2. Municipalidad de Salamanca (2,445 cotizaciones)
+3. Municipalidad de Canela (2,353 cotizaciones)
+4. Municipalidad de Coquimbo (1,929 cotizaciones)
+
+🛠️ HERRAMIENTAS USADAS:
+- Python 3.12
+- pandas
+- numpy
+- matplotlib
+- Google Colab
+
+📚 FUENTES:
+- ChileCompra Datos Abiertos: https://datos-abiertos.chilecompra.cl
+- Mercado Público: https://www.mercadopublico.cl
+- Compra Ágil: https://www.chilecompra.cl/compraagil/
+
+✅ PROYECTO COMPLETO PARA PORTAFOLIO
